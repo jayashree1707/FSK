@@ -1,9 +1,9 @@
-# FSK
-# Aim
+# FREQUENCY SHIFT KEYING(FSK)
+# AIM:
 Write a Python program for the modulation and demodulation of FSK.
-# Tools required
+# TOOLS REQUIRED:
 IDE python with scipy and numpy
-# Program
+# PROGRAM:
 ```
 #FSK
 ///FSK
@@ -84,10 +84,12 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-# Output Waveform
-
+# OUTPUT WAVEFORM:
 ![WhatsApp Image 2025-04-22 at 11 06 31_29fbdfda](https://github.com/user-attachments/assets/6a508b6b-c578-4ac2-89b5-060105a8f7e1)
 
-# Results
+# HARDWARE EXPERIMENT OUTPUT WAVEFORM:
+![WhatsApp Image 2025-04-22 at 11 24 54_a91ac0a3](https://github.com/user-attachments/assets/31dbcc07-8b15-42be-90e7-526d4dc47a43)
+
+# RESULT:
 FSK modulation and demodulation were successfully demonstrated.The modulated signal varied between two frequencies depending on binary input.The demodulated output correctly reproduced the original digital signal, validating theworking of the FSK system.
-# Hardware experiment output waveform.
+
